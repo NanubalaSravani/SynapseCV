@@ -1,3 +1,4 @@
+#SynapseCV
 # 🚀 AI Resume Analyzer & ATS Optimizer (Groq Powered)
 
 An AI-powered Resume Analyzer that evaluates resumes against job descriptions and provides:
